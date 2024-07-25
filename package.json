@@ -1,0 +1,14 @@
+{
+  "name": "-themplates-html-scss-js-main",
+  "version": "1.0.0",
+  "description": "https://eehd80.github.io/-setting/!list.html",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
